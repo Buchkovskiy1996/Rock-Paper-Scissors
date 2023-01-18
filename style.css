@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 24px;
+    box-sizing: border-box;
+    background-color: rgb(82, 164, 219);
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 5px;
+}
+
+.main__text {
+    margin-top: 50px;
+    color: rgb(28, 28, 124);
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.main__subtitle {
+    text-align: center;
+    color: rgb(115, 87, 143);
+    margin-bottom: 100px;
+}
+
+    .btn__inner {
+    text-align: center;
+
+    }
+
+.btn {
+    border-radius: 10px;
+    background-color: azure;
+    display: inline-block;
+    padding: 10px 20px;
+    color: black;
+    text-transform: uppercase;
+    font-weight: 700;
+    cursor: pointer;
+    border: none;
+    margin-bottom: 50px;
+} 
+
+.main__winner {
+text-align: center;
+}
